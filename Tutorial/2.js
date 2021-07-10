@@ -3,3 +3,7 @@ let b=20
 Age=a+b
 console.log("Hello, I am Shweta, My Age is..!");
 console.log(Age)
+
+Output:
+Hello, I am Shweta, My Age is..!
+22
