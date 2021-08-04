@@ -1,0 +1,20 @@
+body{
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Night-Sky-Wallpapers-HD-For-Desktop.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+#clockcanva{
+    margin-left: 360px;
+    margin-top: 50px;
+    height:400px;
+  
+   
+}
+h1,h2{
+    text-align:center;
+    color:white;
+}
+h1:hover,h2:hover{
+    color:Black;
+}
